@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "XeniPaySDK",
-            url: "https://github.com/xeni-app/xenipay-sdk-distribution/releases/download/1.0.0/XeniPaySDK.xcframework.zip",
-            checksum: "9adc0e1ce41dc466609a5295c22db1cb46e4e6c6827b6c351c653beee7edc066"
+            url: "https://github.com/xeni-app/xenipay-sdk-distribution/releases/download/1.0.1/XeniPaySDK.xcframework.zip",
+            checksum: "4c3609dd807842be8398ac922ff8b5a3ac834b7ff343236488cffcd6ff25d978"
         )
     ]
 )
